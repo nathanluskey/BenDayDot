@@ -1,4 +1,5 @@
 # conda env create --file=environment.yml
+# conda env update --file=environment.yml --prune
 name: BenDayDot
 
 channels:
@@ -9,6 +10,7 @@ channels:
 dependencies:
   - numpy
   - notebook
+  - ipywidgets
+  - pillow
   - pip
-  - pip:
-    - Pillow
+  # - pip:
