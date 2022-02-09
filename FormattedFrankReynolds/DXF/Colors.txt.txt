@@ -1,0 +1,10 @@
+https://convertingcolors.com/
+
+Convert RGB -> Behr Paints
+
+RGB(31, 43, 15)    -> Beluga (770F-7)
+RGB(85, 101, 53)   -> Cedar Glen (S350-7)
+RGB(134, 11, 31)   -> Red Red Red (BIC-49)
+RGB(195, 59, 78)   -> Red Jalapeno (190D-6)
+RGB(206, 181, 170) -> Bauhaus Buff (BNC-01)
+RGB(255, 255, 255) -> Ultra Pure White 1850 (1850)
