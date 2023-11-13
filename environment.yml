@@ -14,5 +14,5 @@ dependencies:
   - pillow
   - scikit-learn
   - pip
-    - pip:
-      - ezdxf
+  - pip:
+    - ezdxf
